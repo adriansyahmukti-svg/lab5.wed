@@ -29,9 +29,70 @@
 4. Tekan tombol latihan untuk menjalankan program.
 5. Untuk melihat `console.log()`, tekan `F12` dan pilih tab **Console**.
 
-## Dokumentasi Screenshot
-Simpan screenshot hasil setiap latihan dalam folder `screenshots`, lalu tambahkan gambar di bawah judul latihan yang sesuai. Contoh:
+## Dokumentasi
 
-```markdown
-![Hasil Latihan 1](screenshots/latihan1.png)
-```
+![img](media/1.png)
+
+![img](media/2.png)
+
+![img](media/3.png)
+
+![img](media/4.png)
+
+![img](media/5.png)
+
+![img](media/6.png)
+
+![img](media/7.png)
+
+![img](media/8.png)
+
+![img](media/9.png)
+
+![img](media/10.png)
+
+![img](media/11.png)
+
+![img](media/12.png)
+
+![img](media/13.png)
+
+![img](media/14.png)
+
+![img](media/15.png)
+
+![img](media/16.png)
+
+![img](media/17.png)
+
+![img](media/18.png)
+
+![img](media/19.png)
+
+![img](media/20.png)
+
+![img](media/21.png)
+
+![img](media/22.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
